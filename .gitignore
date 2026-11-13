@@ -41,7 +41,7 @@ data/theme/
 scratch_out/
 
 # Documentation screenshots (add your own)
-docs/screenshots/
+# docs/screenshots/
 
 # Local configuration
 local_config.json
