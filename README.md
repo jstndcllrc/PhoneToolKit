@@ -12,11 +12,10 @@
 
 ## 📸 Screenshots
 
-| Light Mode | Dark Mode |
-|:---:|:---:|
-| ![Light](docs/screenshots/light_mode.png) | ![Dark](docs/screenshots/dark_mode.png) |
+### Dark Mode
+![Dark Mode](docs/screenshots/dark_mode.png)
 
-*Add screenshots to `docs/screenshots/` folder*
+*Theme-aware UI — also works beautifully in Light mode*
 
 ---
 
