@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build directories
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.exe
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv
+venv/
+env/
+
+# Test outputs
+*.log
+*.pytest_cache/
+
+# Data directories (user-generated)
+data/exports/
+data/logs/
+data/theme/
+
+# Scratch/output directories
+scratch_out/
+
+# Documentation screenshots (add your own)
+docs/screenshots/
+
+# Local configuration
+local_config.json
